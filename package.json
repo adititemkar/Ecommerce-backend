@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kartik18g/ecommerce-backend.git"
+        "url": ""
     },
-    "author": "Kartik Gupta",
+    "author": "Aditi Temkar",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/kartik18g/ecommerce-backend/issues"
